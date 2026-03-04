@@ -1,8 +1,7 @@
 🚀 Fanis Moutso - Personal Portfolio
 A modern, interactive, and fully responsive personal portfolio website showcasing my journey as a Junior Web Developer. This single-page application (SPA) is built with vanilla web technologies and features unique interactive elements, including a fully functional web-based terminal and an interactive journey map.
 
-🌐 Live Demo
--
+🌐 Live Demo https://fanis3310.github.io/Modern-Cartoon-Portfolio/fanismoutso.me/
 
 ✨ Features
 Terminal Interface (
