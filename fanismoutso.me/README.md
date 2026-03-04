@@ -22,7 +22,7 @@ Leaflet.js: Used for the interactive geographic journey map.
 👨‍💻 About Me
 I'm Fanis Moutso, a Web Developer based in Athens, Greece, with experience in building client websites, custom internal tools, and WordPress configurations. I work heavily with HTML, CSS, JavaScript, React/TypeScript, PHP, and MySQL.
 
-LinkedIn Profile: [Your LinkedIn URL]
+LinkedIn Profile: https://www.linkedin.com/in/fanis-moutso/
 🚀 Getting Started
 To run this project locally, simply clone the repository and open 
 
