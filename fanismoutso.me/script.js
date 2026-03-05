@@ -650,11 +650,11 @@ ${this.wrapWithColor(
       "#ff8c00"
     )}
 ${this.wrapWithColor("│", "#ff8c00")} ${this.wrapWithColor(
-      "Junior Web Developer with 1+ years of experience in web development. Expert in HTML, CSS, JavaScript, and React. Based in Athens, Greece.",
+      "Junior Web Developer with 1+ years of experience in web<br>  development.Expert in HTML, CSS, JavaScript, and React.",
       "#ffffff"
     )}
 ${this.wrapWithColor("│", "#ff8c00")} ${this.wrapWithColor(
-      "programming experience.",
+      "Based in Athens, Greece.",
       "#ffffff"
     )}
 ${this.wrapWithColor(
@@ -664,34 +664,34 @@ ${this.wrapWithColor(
 
 ${this.wrapWithColor("⚡ Experience", "#ff8c00")}
 ${this.wrapWithColor(
-      "   Building scalable and efficient software solutions using",
+      "   Building web applications with React, JavaScript, and WordPress",
       "#ffffff"
     )}
-${this.wrapWithColor("   React, JavaScript, and Google Cloud", "#ff8c00")}
+${this.wrapWithColor("   React, JavaScript, WordPress, and more", "#ff8c00")}
 
 ${this.wrapWithColor("⚡ Passion", "#ff8c00")}
 ${this.wrapWithColor(
-      "   Transforming innovative ideas into high-quality applications",
+      "   Learning new technologies and improving my skills",
       "#ffffff"
     )}
 ${this.wrapWithColor(
-      "   with elegant and efficient implementations",
+      "   with the latest trends in web development",
       "#ffffff"
     )}
 
 ${this.wrapWithColor("⚡ Strengths", "#ff8c00")}
 ${this.wrapWithColor(
-      "   Strong team player with expertise in designing robust,",
+      "   Team player with expertise in designing robust,",
       "#ffffff"
     )}
-${this.wrapWithColor("   high-performance systems", "#ffffff")}
+${this.wrapWithColor("   quick learner, and problem-solver", "#ffffff")}
 
 ${this.wrapWithColor(
       "╭───────────────────────────────────────────────────────╮",
       "#ff8c00"
     )}
 ${this.wrapWithColor("│", "#ff8c00")} ${this.wrapWithColor(
-      "Ready to bring your innovative ideas to life!",
+      "Ready to work on your next project!",
       "#ffffff"
     )} ${this.wrapWithColor("│", "#ff8c00")}
 ${this.wrapWithColor(
@@ -779,138 +779,92 @@ ${this.wrapWithColor(
   showExperience(outputElement = this.output) {
     const experience = `<span style="color: #ffff00; font-weight: bold;">💼 Professional Experience</span>
 
-<span style="color: #00ffff;">UNICEPTA | Senior Software Engineer</span>
+<span style="color: #00ffff;">Hellas Web | Junior Web Developer</span>
 ${this.wrapWithColor(
-      "Jul 2020 - Present | Cologne, Germany | 450+ employees",
+      "Nov 2025 - Present | Athens, Greece | Small business web agency",
       "#ffffff"
     )}
 ${this.wrapWithColor(
-      "Visionary, AI-powered Media & Data Intelligence Solutions",
+      "Building client websites and internal tools for small businesses",
       "#98fb98"
     )}
 
-• ${this.wrapWithColor("Part of Core team", "#ffa07a")} - ${this.wrapWithColor(
-      "Architect and part of every decision.",
+• ${this.wrapWithColor("Full-stack developer", "#ffa07a")} - ${this.wrapWithColor(
+      "Custom websites with React/TypeScript/Vite + PocketBase/Supabase",
       "#ffffff"
     )}
 • ${this.wrapWithColor(
-      "Microservices engineer",
+      "WordPress developer",
       "#ffa07a"
     )} - ${this.wrapWithColor(
-      "Designed and build services for distributed system",
+      "E-commerce and business sites for local clients",
       "#ffffff"
     )}
-• ${this.wrapWithColor("Pipeline engineer", "#ffa07a")} - ${this.wrapWithColor(
-      "Google cloud engineer for data pipeline",
+• ${this.wrapWithColor("Backend developer ", "#ffa07a")} - ${this.wrapWithColor(
+      "Solo-built PHP/MySQL project management system with database design, notifications, workflows, and dashboards",
       "#ffffff"
     )}
-• ${this.wrapWithColor("Fullstack engineer", "#ffa07a")} - ${this.wrapWithColor(
-      "Wrote and reviewed code for front/back/cloud.",
+• ${this.wrapWithColor("Client collaboration", "#ffa07a")} - ${this.wrapWithColor(
+      "Direct communication with clients, requirements gathering, and project delivery",
       "#ffffff"
     )}
 
 ${this.wrapWithColor("Technologies used:", "#00ffff")} ${this.wrapWithColor(
-      "Typescript, React, NodeJs, Poetry, PyTest, ReactJS, Jest, Cypress, ES6, ElasticSearch, Google Cloud, JIRA, Firebase, Kubernetes, Data Flow",
+      "React, TypeScript, Vite, PocketBase, Supabase, PHP, MySQL, WordPress, JavaScript, HTML, CSS, Git",
       "#87cefa"
     )}
 
-<span style="color: #00ffff;">RITECH SOLUTIONS | Senior Software Engineer</span>
+<span style="color: #00ffff;">Vodafone Greece | Enterprise SOHO Specialist</span>
 ${this.wrapWithColor(
-      "Jul 2018 – Jul 2020 | Tirana, Albania | 100-150 employees",
+      "Apr 2024 - Jan 2025 | Athens, Greece | Major telecom provider",
       "#ffffff"
     )}
 
-• ${this.wrapWithColor("Part of Core team", "#ffa07a")} - ${this.wrapWithColor(
-      "Team that leads company tech decisions",
+• ${this.wrapWithColor("Technical support", "#ffa07a")} - ${this.wrapWithColor(
+      "Internet connectivity, mobile services, billing, network troubleshooting ",
       "#ffffff"
     )}
-• ${this.wrapWithColor("Tech interviewer", "#ffa07a")} - ${this.wrapWithColor(
-      "Interview potential candidates.",
+• ${this.wrapWithColor("Customer account management", "#ffa07a")} - ${this.wrapWithColor(
+      "Service orders, router/modem diagnostics, business package upselling ",
       "#ffffff"
     )}
-• ${this.wrapWithColor("Microsoft project", "#ffa07a")} - ${this.wrapWithColor(
-      "IOT marketing project in every Microsoft store.",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor("Fullstack engineer", "#ffa07a")} - ${this.wrapWithColor(
-      "Wrote and reviewed code for big projects.",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor(
-      "AppriseMobile Tech Lead",
-      "#ffa07a"
-    )} - ${this.wrapWithColor(
-      "CRM for Toyota and corporates in USA",
+• ${this.wrapWithColor("Bilingual support", "#ffa07a")} - ${this.wrapWithColor(
+      "Greek/English technical communication for small business clients ",
       "#ffffff"
     )}
 
 ${this.wrapWithColor("Technologies used:", "#00ffff")} ${this.wrapWithColor(
-      "JavaScript, Python, pandas, NodeJs, ReactJS, Chai, Sinon, Mocha, ES6, ElasticSearch, Redis, Nginx, Gulp, JIRA, Docker, Azure, AWS, MongoDB",
+      "Networking basics, TCP/IP, router configuration, CRM systems, customer service platforms",
       "#87cefa"
     )}
 
-<span style="color: #00ffff;">GUTENBERG TECHNOLOGY | Software Engineering</span>
+<span style="color: #00ffff;">Nova Hellas | Technical Support Specialist Tier 2</span>
 ${this.wrapWithColor(
-      "Feb 2017 – Aug 2018 | Paris, France | 50-100 employees",
+      "May 2023 - Sep 2024 | Athens, Greece (Hybrid) | Major telecom provider",
       "#ffffff"
     )}
 
 • ${this.wrapWithColor(
-      "Fullstack developer",
+      "Advanced troubleshooting",
       "#ffa07a"
     )} - ${this.wrapWithColor(
-      "Frontend and backend (real-time publisher platform) used by National Geographics, IUBH, Fujitsu",
+      "Network, internet, TV, telephony issues (routers, WiFi, STB, VoIP)",
       "#ffffff"
     )}
-• ${this.wrapWithColor("MEFIO developer", "#ffa07a")} - ${this.wrapWithColor(
-      "Highly available publisher platform",
+• ${this.wrapWithColor("Network diagnostics", "#ffa07a")} - ${this.wrapWithColor(
+      "TCP/IP, DNS, DHCP, SLA-compliant ticket management ",
       "#ffffff"
     )}
 • ${this.wrapWithColor(
-      "Webreader developer",
+      "2nd line escalation",
       "#ffa07a"
     )} - ${this.wrapWithColor(
-      "reader platform, e-Learning platform",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor("SaaS developer", "#ffa07a")} - ${this.wrapWithColor(
-      "Integrated strategy to migrate from manual sales to SaaS",
+      "Complex technical issues requiring deeper networking knowledge",
       "#ffffff"
     )}
 
 ${this.wrapWithColor("Technologies used:", "#00ffff")} ${this.wrapWithColor(
-      "Python, ES6, ElasticSearch, Redis, Nginx, npm, Gulp, JIRA, Docker, AWS S3, RethinkDB, ReactJS, NodeJS, AngularJS, JavaScript",
-      "#87cefa"
-    )}
-
-<span style="color: #00ffff;">GROUP OF COMPANIES | Software Engineer</span>
-${this.wrapWithColor(
-      "Mar 2015 – Feb 2017 | Tirana, Albania | 5-30 employees",
-      "#ffffff"
-    )}
-
-• ${this.wrapWithColor("Software developer", "#ffa07a")} - ${this.wrapWithColor(
-      "Developed web and native projects",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor("Bar management app", "#ffa07a")} - ${this.wrapWithColor(
-      "Developed app for bar/restaurant management.",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor(
-      "Bank system optimisation",
-      "#ffa07a"
-    )} - ${this.wrapWithColor(
-      "Optimised aggregation from 11h to 1h",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor("UKD developer", "#ffa07a")} - ${this.wrapWithColor(
-      "Water supply billing process for Albania, Government project",
-      "#ffffff"
-    )}
-
-${this.wrapWithColor("Technologies used:", "#00ffff")} ${this.wrapWithColor(
-      "Typescript, Python, Gulp, Docker, MongoDB, ReactJS, NodeJs, AngularJS, JavaScript, Java",
+      "Networking protocols, router/modem troubleshooting, VoIP, STB diagnostics, ticketing systems",
       "#87cefa"
     )}`;
 
@@ -928,7 +882,7 @@ ${this.wrapWithColor(
       "#ff8c00"
     )}
 ${this.wrapWithColor("│", "#ff8c00")}${this.wrapWithColor(
-      " Bachelor of Computer Science ",
+      " Department of Management Science & Technology ",
       "#ffffff"
     )}${this.wrapWithColor("│", "#ff8c00")}
 ${this.wrapWithColor(
@@ -937,15 +891,15 @@ ${this.wrapWithColor(
     )}
 
 ${this.wrapWithColor("🏛️ Institution:", "#ff8c00")} ${this.wrapWithColor(
-      "University of Tirana",
+      "Democritus University of Thrace",
       "#ffffff"
     )}
 ${this.wrapWithColor("📅 Duration:", "#ff8c00")}    ${this.wrapWithColor(
-      "2013 - 2016",
+      "2019 - 2025",
       "#ffffff"
     )}
 ${this.wrapWithColor("📍 Location:", "#ff8c00")}    ${this.wrapWithColor(
-      "Tirana, Albania",
+      "Kavala, Greece",
       "#ffffff"
     )}
 
@@ -954,7 +908,7 @@ ${this.wrapWithColor(
       "#ff8c00"
     )}
 ${this.wrapWithColor("│", "#ff8c00")}${this.wrapWithColor(
-      " Foundation of my software engineering journey ",
+      " BSc in Management Science & Technology ",
       "#ffffff"
     )}${this.wrapWithColor("│", "#ff8c00")}
 ${this.wrapWithColor(
@@ -1002,7 +956,7 @@ ${this.wrapWithColor("✉", "#ff8c00")}  ${this.wrapWithColor(
       "Email:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="mailto:marjoballabani@gmail.com" style="color: #ffffff; text-decoration: none;">marjoballabani@gmail.com</a>',
+      '<a href="mailto:erismts@atomicmail.io" style="color: #ffffff; text-decoration: none;">erismts@atomicmail.io</a>',
       "#ffffff"
     )}
 
@@ -1010,7 +964,7 @@ ${this.wrapWithColor("🌐", "#ff8c00")}  ${this.wrapWithColor(
       "Website:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="https://marjoballabani.me" target="_blank" style="color: #ffffff; text-decoration: none;">marjoballabani.me</a>',
+      '<a href="https://fanismoutso.me" target="_blank" style="color: #ffffff; text-decoration: none;">fanismoutso.me</a>',
       "#ffffff"
     )}
 
@@ -1018,7 +972,7 @@ ${this.wrapWithColor("⚡", "#ff8c00")}  ${this.wrapWithColor(
       "Github:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="https://github.com/marjoballabani" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/marjoballabani</a>',
+      '<a href="https://github.com/Fanis3310" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/Fanis3310</a>',
       "#ffffff"
     )}
 
@@ -1026,13 +980,13 @@ ${this.wrapWithColor("💼", "#ff8c00")}  ${this.wrapWithColor(
       "LinkedIn:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="https://linkedin.com/in/marjo-ballabani" target="_blank" style="color: #ffffff; text-decoration: none;">linkedin.com/in/marjo-ballabani</a>',
+      '<a href="https://www.linkedin.com/in/fanis-moutso" target="_blank" style="color: #ffffff; text-decoration: none;">linkedin.com/in/fanis-moutso</a>',
       "#ffffff"
     )}
 
 ${this.wrapWithColor("╭────────────────────────────────────────╮", "#ff8c00")}
 ${this.wrapWithColor("│", "#ff8c00")} ${this.wrapWithColor(
-      "Feel free to reach out for opportunities!",
+      "Always open to new opportunities!",
       "#ffffff"
     )} ${this.wrapWithColor("│", "#ff8c00")}
 ${this.wrapWithColor("╰────────────────────────────────────────╯", "#ff8c00")}`;
@@ -1079,12 +1033,12 @@ ${this.wrapWithColor("╰──────────────────�
   loadProjects() {
     this.projects = [
       {
-        title: "Interactive Terminal Resume",
-        description: "A unique terminal-based resume with interactive features",
-        image: "path/to/project-image.jpg",
+        title: "Modern Portfolio",
+        description: "A modern portfolio website for a web developer",
+        image: "image/portfolio_demo.webp",
         technologies: ["JavaScript", "HTML", "CSS"],
-        demo: "https://demo.example.com",
-        repo: "https://github.com/example/repo",
+        demo: "https://fanismoutso.me",
+        repo: "https://github.com/Fanis3310/Modern-Cartoon-Portfolio",
       },
       // Add more projects
     ];
@@ -1092,24 +1046,33 @@ ${this.wrapWithColor("╰──────────────────�
 
   loadSkills() {
     this.skills = {
-      programming: {
-        JavaScript: 95,
-        Python: 90,
+      frontend: {
         "React.js": 85,
-        "Node.js": 88,
+        "TypeScript": 80,
+        JavaScript: 90,
+        HTML: 90,
+        CSS: 85,
       },
-      cloud: {
-        "Google Cloud": 92,
-        AWS: 85,
-        Azure: 80,
+      backend: {
+        PHP: 75,
+        MySQL: 80,
+        "PocketBase": 70,
+        "Supabase": 65,
       },
-      databases: {
-        MongoDB: 90,
-        PostgreSQL: 85,
-        Redis: 82,
+      tools: {
+        WordPress: 75,
+        Vite: 70,
+        Git: 85,
+        "GitHub": 90,
       },
+      support: {
+        Networking: 70,
+        "Customer Support": 85,
+        "Technical Troubleshooting": 80,
+      }
     };
   }
+
 
   setupFileSystem() {
     this.fileSystem = {
@@ -1661,11 +1624,8 @@ ${this.wrapWithColor("╰──────────────────�
     );
 
     try {
-      // Using OpenWeatherMap API
-      const apiKey = "4331a27995f4c5b5e8d1eab1ed3d88b4"; // Free API key with limited usage
-      const url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(
-        location
-      )}&appid=${apiKey}&units=metric`;
+      // Using wttr.in API instead as it requires no API key
+      const url = `https://wttr.in/${encodeURIComponent(location)}?format=j1`;
 
       const response = await fetch(url);
 
@@ -1674,29 +1634,24 @@ ${this.wrapWithColor("╰──────────────────�
       }
 
       const data = await response.json();
+      const current = data.current_condition[0];
+      const locationName = data.nearest_area[0].areaName[0].value;
+      const countryName = data.nearest_area[0].country[0].value;
 
       // Format weather data
       const weatherHTML = `<div class="weather-container">
         <div class="weather-header">
-          <span style="color: #ffff00; font-weight: bold;">🌤️ Weather for ${data.name
-        }, ${data.sys.country}</span>
+          <span style="color: #ffff00; font-weight: bold;">🌤️ Weather for ${locationName}, ${countryName}</span>
         </div>
         <div class="weather-body">
           <div class="weather-main">
-            <span style="font-size: 2rem; color: #ffffff;">${Math.round(
-          data.main.temp
-        )}°C</span>
-            <span style="color: #cccccc;">${data.weather[0].main}</span>
+            <span style="font-size: 2rem; color: #ffffff;">${current.temp_C}°C</span>
+            <span style="color: #cccccc;">${current.weatherDesc[0].value}</span>
           </div>
           <div class="weather-details">
-            <div><span style="color: #87cefa;">Feels like:</span> ${Math.round(
-          data.main.feels_like
-        )}°C</div>
-            <div><span style="color: #87cefa;">Humidity:</span> ${data.main.humidity
-        }%</div>
-            <div><span style="color: #87cefa;">Wind:</span> ${Math.round(
-          data.wind.speed * 3.6
-        )} km/h</div>
+            <div><span style="color: #87cefa;">Feels like:</span> ${current.FeelsLikeC}°C</div>
+            <div><span style="color: #87cefa;">Humidity:</span> ${current.humidity}%</div>
+            <div><span style="color: #87cefa;">Wind:</span> ${current.windspeedKmph} km/h</div>
           </div>
         </div>
       </div>`;
@@ -1820,7 +1775,7 @@ ${this.wrapWithColor("╰──────────────────�
 
     // Add terminal title
     const terminalTitle = document.createElement("div");
-    terminalTitle.textContent = "marjo@ballabani: ~/interactive-resume";
+    terminalTitle.textContent = "fanis@moutso: ~/interactive-resume";
     terminalTitle.style.color = "#f8f8f2";
     terminalTitle.style.fontSize = "12px";
     terminalTitle.style.fontFamily = "'Fira Code', monospace";
@@ -1877,7 +1832,7 @@ ${this.wrapWithColor("╰──────────────────�
 
     // Add role
     const role = document.createElement("div");
-    role.textContent = "Software Engineer • Cloud Architect • Tech Lead";
+    role.textContent = "Junior Web Developer • Future Full-Stack Developer";
     role.style.color = "#666666";
     role.style.fontSize = "10px";
     role.style.fontFamily = "'Fira Code', monospace";
@@ -2009,7 +1964,7 @@ ${this.wrapWithColor("╰──────────────────�
     urlContainer.style.textAlign = "center";
 
     const url = document.createElement("div");
-    url.textContent = "marjoballabani.me";
+    url.textContent = "fanismoutso.me";
     url.style.color = "#87cefa";
     url.style.fontSize = "12px";
     url.style.fontFamily = "'Fira Code', monospace";
