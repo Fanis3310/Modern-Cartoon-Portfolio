@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="fanismoutso.me/image/erfan_moutso_pirate.png" alt="Fanis Moutso Logo" width="200"/>
+  <img src="image/erfan_moutso_pirate.png" alt="Fanis Moutso Logo" width="200"/>
   
   # 🚀 Fanis Moutso | Personal Portfolio
   
   **A modern, interactive, and fully responsive personal portfolio.** <br>
   *Showcasing my journey as a Web Developer.*
   
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-success?style=for-the-badge&logo=fastly)](https://fanis3310.github.io/Modern-Cartoon-Portfolio/fanismoutso.me/)
-  [![GitHub Pages](https://img.shields.io/badge/Hosted_With-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://fanis3310.github.io/Modern-Cartoon-Portfolio/fanismoutso.me/)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-success?style=for-the-badge&logo=fastly)](https://fanis3310.github.io/Modern-Cartoon-Portfolio/)
+  [![GitHub Pages](https://img.shields.io/badge/Hosted_With-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://fanis3310.github.io/Modern-Cartoon-Portfolio/)
   [![Built with HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
   [![Built with CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
   [![Built with JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="fanismoutso.me/image/portfolio_demo.webp" alt="Portfolio Showcase Recording" width="100%" />
+  <img src="image/portfolio_demo.webp" alt="Portfolio Showcase Recording" width="100%" />
 </div>
 
 <br>
@@ -57,7 +57,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="fanismoutso.me/image/Cartoon_Fanis.png" alt="Cartoon Fanis" width="180" align="right" style="border-radius: 10px; margin-left: 20px;">
+<img src="image/Cartoon_Fanis.png" alt="Cartoon Fanis" width="180" align="right" style="border-radius: 10px; margin-left: 20px;">
 
 I'm **Fanis Moutso**, a Web Developer based in Athens, Greece, with experience in building client websites, custom internal tools, and WordPress configurations. I work heavily with HTML, CSS, JavaScript, React/TypeScript, PHP, and MySQL. 
 
@@ -78,7 +78,7 @@ To run this project locally, simply clone the repository and open `index.html` i
 git clone https://github.com/Fanis3310/Modern-Cartoon-Portfolio.git
 
 # Navigate to the project directory
-cd Modern-Cartoon-Portfolio/fanismoutso.me
+cd Modern-Cartoon-Portfolio
 
 # Open index.html in your default browser
 open index.html
